@@ -1,0 +1,15 @@
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\bin\Debug\net7.0\FirstApp.Model.deps.json
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\bin\Debug\net7.0\FirstApp.Model.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\bin\Debug\net7.0\FirstApp.Model.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.csproj.AssemblyReference.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.AssemblyInfoInputs.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.AssemblyInfo.cs
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.csproj.CoreCompileInputs.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\refint\FirstApp.Model.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\ref\FirstApp.Model.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\bin\Debug\net7.0\FirstApp.Shared.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\bin\Debug\net7.0\FirstApp.Shared.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Model\obj\Debug\net7.0\FirstApp.Model.csproj.CopyComplete

@@ -1,0 +1,15 @@
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\bin\Debug\net7.0\FirstApp.Service.Repository.deps.json
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\bin\Debug\net7.0\FirstApp.Service.Repository.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\bin\Debug\net7.0\FirstApp.Service.Repository.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.csproj.AssemblyReference.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.AssemblyInfoInputs.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.AssemblyInfo.cs
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.csproj.CoreCompileInputs.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\refint\FirstApp.Service.Repository.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\ref\FirstApp.Service.Repository.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\bin\Debug\net7.0\FirstApp.Shared.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\bin\Debug\net7.0\FirstApp.Shared.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Infrustracture\FirstApp.Service.Repository\obj\Debug\net7.0\FirstApp.Service.Repository.csproj.CopyComplete

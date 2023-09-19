@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FristApp
+build_property.RootNamespace = FristApp
+build_property.ProjectDir = E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\FrontEnd\FristApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\FrontEnd\FristApp
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/City/AddorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxBZGRvckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/City/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/City/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/City/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Country/AddorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxBZGRvckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Employee/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/State/AddorEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcQWRkb3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/State/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/State/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Advance ASP.NET/CleanStractureApp/Practise/FirstApp/FirstApp/src/FrontEnd/FristApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yruih5xpaj

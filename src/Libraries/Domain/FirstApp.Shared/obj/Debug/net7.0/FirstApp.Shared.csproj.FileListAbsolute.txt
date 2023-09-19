@@ -1,0 +1,12 @@
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\bin\Debug\net7.0\FirstApp.Shared.deps.json
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\bin\Debug\net7.0\FirstApp.Shared.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\bin\Debug\net7.0\FirstApp.Shared.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.csproj.AssemblyReference.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.AssemblyInfoInputs.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.AssemblyInfo.cs
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.csproj.CoreCompileInputs.cache
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\refint\FirstApp.Shared.dll
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\FirstApp.Shared.pdb
+E:\Advance ASP.NET\CleanStractureApp\Practise\FirstApp\FirstApp\src\Libraries\Domain\FirstApp.Shared\obj\Debug\net7.0\ref\FirstApp.Shared.dll

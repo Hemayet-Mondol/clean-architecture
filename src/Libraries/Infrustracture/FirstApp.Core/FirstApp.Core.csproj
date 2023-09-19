@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="MediatR.Contracts" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="7.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\FirstApp.Model\FirstApp.Model.csproj" />
+    <ProjectReference Include="..\..\Domain\FirstApp.Repositories\FirstApp.Repositories.csproj" />
+    <ProjectReference Include="..\FirstApp.Service.Repository\FirstApp.Service.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

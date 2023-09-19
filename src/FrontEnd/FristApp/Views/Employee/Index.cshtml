@@ -1,0 +1,104 @@
+﻿@model IEnumerable<FristApp.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddOrEdit">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JoiningDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ssc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hsc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bsc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Msc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Picture)
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country.CountryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.State.StateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City.CityName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JoiningDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ssc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hsc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bsc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Msc)
+            </td>
+            <td> 
+                <img src="~/images/@item.Picture" width="50" height="50"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country.CountryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.State.StateName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City.CityName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "AddOrEdit", new { id=item.Id  }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
