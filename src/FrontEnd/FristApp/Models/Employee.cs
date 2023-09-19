@@ -19,6 +19,8 @@ namespace FristApp.Models
         /// <value>
         /// The name.
         /// </value>
+        /// 
+        [Display(Name ="Eployee Name")]
         public string EmployeeName { get; set; } = string.Empty;
 
         /// <summary>
